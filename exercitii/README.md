@@ -2,12 +2,12 @@ Exerciții propuse
 -----------------
 
 - [caesar](caesar)
-	- Dificultatea: scăzută
+	- Dificultate: scăzută
 - [icao](icao)
 	- Dificultate: scăzută
 - [unic](unic)
 	- Dificultate: scăzută
 - [paint](paint)
-	- Dificultatea: medie
+	- Dificultate: medie
 - [paranteze](paranteze)
-	- Dificutate: medie
+	- Dificultate: medie
