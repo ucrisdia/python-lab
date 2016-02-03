@@ -11,3 +11,5 @@ Exerciții propuse
 	- Dificultate: medie
 - [paranteze](paranteze)
 	- Dificultate: medie
+- [grep](grep)
+	- Dificultate: medie
