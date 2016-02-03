@@ -34,10 +34,10 @@ Stiind limbajul de programare python si fiind un fan al liniei de comanda,
 el doreste sa implemente un utilitar inteligent de cautat formule. 
 Functionalitatiile care doreste sa le implementeze sunt:
     [1] cautare indiferent de caz (ex. 'a'=='A' ) [-i]
-    [2] cautare exacta ( nu ia in considere parti ale cuvintelor) [-e]
-    [3] cautare recursiva a fisierelor prin director [-r]
-    [4] cautare si schimbare a sirurilor de caractere [-s]
-    [5] numararea aparitiilor unui sir de caractere [-n]
+    [2] cautare exacta ( nu ia in considere parti ale cuvintelor) [-e] 
+    [3] cautare si schimbare a sirurilor de caractere [-s]
+    [4] numararea aparitiilor unui sir de caractere [-n]
+    [5] cautare recursiva a fisierelor prin director [-r]
     [6] introducerea parametrilor din linia de comanda:
     ex: python utilitar.py -in "CARD" teoreme1.txt
     [7] afisarea unui mesaj de ajutor daca parametrii introdusi sunt gresiti
