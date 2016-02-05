@@ -1,0 +1,25 @@
+Search and find questions: 
+1. Care este diferenta dintre telnet si ssh?
+2. Ce fac comenzile ps,wget,watch si tee?
+3. Ce face operatorul &?
+4. Ce face instructiunea & disown dupa o comanda?
+5. Cum gasesc procesul care e legat la un anumit port?
+6. Care e diferenta dintre exec si fork?
+7. Care e diferenta intre: "variabila=hello" si "export variabila=hello"
+8. Ce face comanda asta pe sistemul vostru: "sudo :(){ :|:& };:"
+9. Care e diferenta dintre "./nume_script.sh" si ". nume_script.sh"
+10. Care e diferenta dintre CTRL^C, CTRL^Z si CTRL^D?
+
+Funny questions:
+1. Un sysadmin a facut urmatoarea comanda: "chmod 444 /bin/chmod". Cum reparati asta?
+2. Un sysadmin si-a pierdut parola de la userul "root". Ce puteti face?
+3. Cum puteti vedea continutul unui script care ruleaza pe sistem? (Fara a citi scriptul)
+4. 
+
+Easy demo:
+1. Dezarhivati test.tar.gz fara pagini de manual(man) sau google.
+2. Stergeti toate fisierele cu extensia pyc din directorul curata-ma
+3. Modificati sirul de caractere "Tuxy e cel mai tare" cu "$USER rocks!" din toate fisierele .usr care nu incep cu linia "Versiunea: Alfa"
+4. Scrieti un script care compara doua directoare
+5. Vedeti toate fisierle de pe sistemul vostru care nu au mai fost modificate de 35 de zile
+6. Verificati daca www.cloudbase.it este online. 

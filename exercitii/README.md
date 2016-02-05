@@ -13,3 +13,5 @@ Exerciții propuse
 	- Dificultate: medie
 - [grep](grep)
 	- Dificultate: medie
+- [linux](linux)
+  - Dificultate: scăzută
